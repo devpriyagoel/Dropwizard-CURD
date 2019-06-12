@@ -1,0 +1,9 @@
+template: person %s alias is %s!
+defaultName: Stranger
+defaultAlias: def
+
+logging:
+  level: INFO
+  loggers:
+    com.mygroup: DEBUG
+
